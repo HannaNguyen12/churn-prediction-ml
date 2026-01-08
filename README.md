@@ -46,7 +46,7 @@ Rather than stopping at predictive accuracy, the project integrates an economic 
 
 + **Predictive performance**: Random Forest achieves ROC-AUC ≈ 0.65
 
-+ **Economic impact**: additional $364,862 in expected value relative to a no-intervention baseline (under stated cost and revenue assumptions)
++ **Economic impact**: additional $366,679 in expected value relative to a no-intervention baseline (under stated cost and revenue assumptions)
 
 + **Optimal decision threshold**: t=0.367 (selected by maximizing an objective function TPR − 1.093⋅FPR)
 
