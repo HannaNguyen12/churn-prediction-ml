@@ -50,6 +50,6 @@ Rather than stopping at predictive accuracy, the project integrates an economic 
 
 + **Optimal decision threshold**: t=0.367 (selected by maximizing an objective function TPR − 1.093⋅FPR)
 
-+ **Operational trade-off at optimal threshold**:  Precision = 0.38, Recall = 0.65 (intentional prioritize recall due to higher cost of missed churners)
++ **Operational trade-off at optimal threshold**:  Precision = 0.38, Recall = 0.60 (intentional prioritize recall due to higher cost of missed churners)
 
 + **Flexibility**: Economic value is fully parameterized and can be recalculated for different incentive costs, customer lifetime values, or incentive effectiveness rates
